@@ -8,11 +8,10 @@ https://docs.python.org/es/3/library/tkinter.html
 
 py3. [recipe-intro](https://tecadmin.net/how-to-install-python-tkinter-on-linux/) 
 
-## test
+### install.test
 
 `python3 -m tkinter` # test0
-
-touch test1.py
+`touch test1.py`
 
 ```py
 from tkinter import *
@@ -23,5 +22,6 @@ window.title('Hello Python')
 window.geometry("400x150+10+10")
 window.mainloop()
 ```
+
 ## mwe's
 

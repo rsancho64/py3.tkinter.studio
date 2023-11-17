@@ -4,13 +4,13 @@
 
 https://docs.python.org/es/3/library/tkinter.html
 
-## install 
+## install
 
 py3. [recipe-intro](https://tecadmin.net/how-to-install-python-tkinter-on-linux/) 
 
 ### install.test
 
-`python3 -m tkinter` # test0
+`python3 -m tkinter` # test0  
 `touch test1.py`
 
 ```py

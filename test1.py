@@ -1,4 +1,5 @@
 from tkinter import *
+
 window = Tk()
 lbl = Label(window, text="Welcome to Tecadmin.net", font=("Helvetica", 16))
 lbl.place(x=60, y=50)
